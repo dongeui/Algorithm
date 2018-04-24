@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Baekjoon\bin\Debug\netcoreapp2.0\Baekjoon.deps.json
+C:\Users\user\source\repos\Baekjoon\bin\Debug\netcoreapp2.0\Baekjoon.runtimeconfig.json
+C:\Users\user\source\repos\Baekjoon\bin\Debug\netcoreapp2.0\Baekjoon.runtimeconfig.dev.json
+C:\Users\user\source\repos\Baekjoon\bin\Debug\netcoreapp2.0\Baekjoon.dll
+C:\Users\user\source\repos\Baekjoon\bin\Debug\netcoreapp2.0\Baekjoon.pdb
+C:\Users\user\source\repos\Baekjoon\obj\Debug\netcoreapp2.0\Baekjoon.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Baekjoon\obj\Debug\netcoreapp2.0\Baekjoon.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Baekjoon\obj\Debug\netcoreapp2.0\Baekjoon.AssemblyInfo.cs
+C:\Users\user\source\repos\Baekjoon\obj\Debug\netcoreapp2.0\Baekjoon.dll
+C:\Users\user\source\repos\Baekjoon\obj\Debug\netcoreapp2.0\Baekjoon.pdb
+C:\Users\user\source\repos\Baekjoon\obj\Debug\netcoreapp2.0\Baekjoon.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+c:\users\user\source\repos\Baekjoon\Baekjoon\bin\Debug\Baekjoon.exe.config
+c:\users\user\source\repos\Baekjoon\Baekjoon\bin\Debug\Baekjoon.exe
+c:\users\user\source\repos\Baekjoon\Baekjoon\bin\Debug\Baekjoon.pdb
+c:\users\user\source\repos\Baekjoon\Baekjoon\obj\Debug\Baekjoon.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Baekjoon\Baekjoon\obj\Debug\Baekjoon.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Baekjoon\Baekjoon\obj\Debug\Baekjoon.exe
+c:\users\user\source\repos\Baekjoon\Baekjoon\obj\Debug\Baekjoon.pdb
